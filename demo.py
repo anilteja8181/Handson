@@ -6,4 +6,4 @@ while ( a > 0 ):
 	sum1=(sum1*10)+rem
 	a=a/10
 	continue
-print("reverse of no is %d" %sum1)
+print("reverse of no is %d"%sum1)
