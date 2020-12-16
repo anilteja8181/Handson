@@ -1,6 +1,6 @@
 #!/bin/bash
 a=30
-b=25
+b=10
 if(a > b) :
     print("a is greater")
 else: 
